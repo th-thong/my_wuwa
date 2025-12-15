@@ -1,0 +1,4011 @@
+{
+    "code": 0,
+    "message": "success",
+    "data": [
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-11-25 10:21:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-11-25 10:21:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1303,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Yuanwu",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020064,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Lunar Cutter",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1303,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Yuanwu",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050044,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Jinzhou Keeper",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 20:54:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1508,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Chisa",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1405,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Jianxin",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-11-20 10:31:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1303,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Yuanwu",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-11-20 10:31:29"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-11-07 22:48:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-10-17 00:06:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-17 00:05:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-17 00:05:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-10-14 07:11:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1402,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Yangyang",
+            "count": 1,
+            "time": "2025-10-14 07:11:23"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1204,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Mortefi",
+            "count": 1,
+            "time": "2025-10-13 09:17:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-10-12 10:00:26"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030044,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Undying Flame",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-10-11 15:03:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-10-10 19:39:36"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1204,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Mortefi",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-10-10 18:46:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1204,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Mortefi",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030064,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Novaburst",
+            "count": 1,
+            "time": "2025-10-10 18:45:52"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1102,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Sanhua",
+            "count": 1,
+            "time": "2025-10-10 18:45:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1208,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Galbrena",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-10-10 18:45:16"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1106,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Youhu",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1208,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Galbrena",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1405,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Jianxin",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-10-09 10:28:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1204,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Mortefi",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-10-09 10:28:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-10-01 18:25:11"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1103,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Baizhi",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-09-17 12:13:24"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-09-17 12:13:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1407,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Ciaccona",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1204,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Mortefi",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-09-17 12:12:49"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-09-13 11:50:30"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-09-08 18:43:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-09-08 18:43:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-08-31 10:38:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-08-29 12:50:58"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1202,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Chixia",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-08-29 12:50:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030064,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Novaburst",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-08-28 19:29:22"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-08-28 19:25:42"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1303,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Yuanwu",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1608,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Phrolova",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-08-04 09:44:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-30 08:48:45"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-29 09:15:11"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-29 09:15:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1405,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Jianxin",
+            "count": 1,
+            "time": "2025-07-29 09:10:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-29 09:10:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-29 09:10:33"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-29 09:08:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-07-29 09:08:34"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-28 11:35:46"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-28 08:53:10"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-28 08:53:04"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-28 08:52:58"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030064,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Novaburst",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-26 14:44:41"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1504,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Lumi",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1403,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Aalto",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-26 11:33:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1303,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Yuanwu",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-24 13:51:57"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1504,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Lumi",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-24 13:36:43"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1504,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Lumi",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1303,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Yuanwu",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-24 09:08:35"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030024,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Cadenza",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-24 09:08:27"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1207,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Lupa",
+            "count": 1,
+            "time": "2025-07-03 10:10:01"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-03 10:09:40"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-03 10:06:06"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1601,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Taoqi",
+            "count": 1,
+            "time": "2025-07-03 10:02:48"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040064,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Hollow Mirage",
+            "count": 1,
+            "time": "2025-07-03 10:02:21"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1202,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Chixia",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:02:15"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1204,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Mortefi",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:50"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1102,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Sanhua",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:01:44"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1106,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Youhu",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:01:38"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1203,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Encore",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:01:05"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1102,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Sanhua",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1204,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Mortefi",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:59"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1202,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Chixia",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1106,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Youhu",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1202,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Chixia",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-03 10:00:53"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1102,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Sanhua",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Voyager",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-07-03 10:00:47"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1409,
+            "qualityLevel": 5,
+            "resourceType": "Resonator",
+            "name": "Cartethyia",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1504,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Lumi",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-06-22 17:38:08"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1103,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Baizhi",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-22 17:38:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-22 17:37:30"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030044,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Undying Flame",
+            "count": 1,
+            "time": "2025-06-22 17:37:23"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1103,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Baizhi",
+            "count": 1,
+            "time": "2025-06-22 17:37:18"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type III",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Voyager",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21030013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Pistols of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Voyager",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1106,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Youhu",
+            "count": 1,
+            "time": "2025-06-16 11:22:09"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Voyager",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050024,
+            "qualityLevel": 4,
+            "resourceType": "Weapon",
+            "name": "Variation",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Broadblade of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Rectifier of Night",
+            "count": 1,
+            "time": "2025-06-16 11:22:02"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Sword of Night",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21020023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type II",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040013,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Night",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 1103,
+            "qualityLevel": 4,
+            "resourceType": "Resonator",
+            "name": "Baizhi",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040043,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Gauntlets of Voyager",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21050023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type V",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21010023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type I",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        },
+        {
+            "cardPoolType": "Resonators Accurate Modulation",
+            "resourceId": 21040023,
+            "qualityLevel": 3,
+            "resourceType": "Weapon",
+            "name": "Originite: Type IV",
+            "count": 1,
+            "time": "2025-06-16 11:21:56"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "SEA": "{\"Base\":{\"Name\":\"3T\",\"Id\":901551605,\"CreatTime\":1716507326174,\"ActiveDays\":568,\"Level\":80,\"WorldLevel\":8,\"RoleNum\":34,\"SoundBox\":10,\"Energy\":230,\"MaxEnergy\":240,\"StoreEnergy\":17,\"StoreEnergyRecoverTime\":0,\"EnergyRecoverTime\":1765701394118,\"Liveness\":0,\"LivenessMaxCount\":100,\"LivenessUnlock\":true,\"ChapterId\":26,\"WeeklyInstCount\":3,\"Boxes\":{\"2\":892,\"1\":904,\"3\":355,\"4\":76},\"BasicBoxes\":{\"2\":734,\"1\":542,\"3\":338,\"4\":86},\"PhantomBoxes\":{\"1\":180,\"2\":148,\"3\":136},\"BirthMon\":12,\"BirthDay\":14,\"MaxStoreEnergy\":480},\"BattlePass\":{\"Level\":70,\"WeekExp\":4400,\"WeekMaxExp\":12000,\"IsUnlock\":true,\"IsOpen\":true,\"Exp\":200,\"ExpLimit\":800}}"
+  },
+  "timestamp": 1765698009856
+}

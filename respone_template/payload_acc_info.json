@@ -1,5 +1,5 @@
 {
-    "oauthCode": "113ed09b-3988-4043-8a13-d56998a3ef2a",
-    "playerId": 901551605,
-    "region": "SEA"
+    "oauthCode": "game_account.oauthCode",
+    "playerId": "game_acocunt.uid",
+    "region": "game_account.server"
 }

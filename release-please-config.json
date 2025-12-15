@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "src/backend": {
+      "release-type": "python",
+      "package-name": "my-wuwa-backend",
+      "changelog-path": "CHANGELOG.md"
+    }
+  }
+}

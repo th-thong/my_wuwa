@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class WebAccountConfig(AppConfig):
+class GameAccountConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'web_account'
+    name = 'game_account'

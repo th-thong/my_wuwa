@@ -4,6 +4,11 @@
       "release-type": "python",
       "package-name": "my-wuwa-backend",
       "changelog-path": "CHANGELOG.md"
+    },
+    "src/frontend": {
+      "release-type": "node",
+      "package-name": "my-wuwa-frontend",
+      "changelog-path": "CHANGELOG.md"
     }
   }
 }

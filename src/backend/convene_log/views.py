@@ -1,35 +1,58 @@
-from django.shortcuts import render
 from rest_framework.authentication import TokenAuthentication
-from rest_framework.permissions import IsAdminUser, IsAuthenticated
+from rest_framework.permissions import IsAuthenticated
 from rest_framework_simplejwt.authentication import JWTAuthentication
 from rest_framework import status
 from rest_framework.views  import APIView
 from rest_framework.response import Response
-import requests
+from .serializers import ResponseToConveneLogSerializer
+import json
+
+from utils.handle_urls import get_params
+from external_services.convene_log_api import get_convene_log
 
 
-def get_convene_log_response(url):
-    try:
-        response = requests.get(url)
-        
-        # Kiểm tra nếu thành công (Status Code 200)
-        if response.status_code == 200:
-            data = response.json() # Chuyển đổi kết quả về dạng Dictionary/List
-            print("Tiêu đề:", data['title'])
-        else:
-            print("Lỗi:", response.status_code)
 
-    except Exception as e:
-        print("Có lỗi xảy ra:", e)
-
-
-class ConvenesLogView():
-    authentication_classes = [JWTAuthentication]
+class ConveneLogView(APIView):
+    authentication_classes = [JWTAuthentication, TokenAuthentication]
     permission_classes = [IsAuthenticated]
 
-    def get(self, request):
-        url = request.data.get('url')
-        if not url:
-            return Response({'error': 'URL not provided'}, status=status.HTTP_400_BAD_REQUEST)
-
+    def post(self, request):
+        convenes_log_url = request.data.get('convene_log_url')
         
+        if not convenes_log_url:
+            return Response({"error":"Convenes url is missing"}, status=status.HTTP_400_BAD_REQUEST)
+
+
+        for i in range(1,2):
+
+            params=get_params(convenes_log_url)
+
+            convenes_log = get_convene_log(
+                api_url="https://gmserver-api.aki-game2.net/gacha/record/query",
+                url=convenes_log_url,
+                card_pool_type=1
+            )
+
+
+            uid = params.get('player_id')
+            user = request.user
+
+            game_account = user.game_accounts.filter(uid=uid).first()
+            print(game_account.id)
+            if not game_account:
+                return Response({"error": "Game account not found"})
+
+            serializer = ResponseToConveneLogSerializer(
+                data=convenes_log.get("data",[]), 
+                many=True
+            )
+
+            if serializer.is_valid():
+                result = serializer.save(game_account=game_account)
+                if result is None:
+                    return Response({"message": "Duplicate ignored"}, status=200)
+
+                return Response(serializer.data, status=status.HTTP_201_CREATED)
+            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+        return Response({"message":"Update convene log succesfully"}, status=status.HTTP_200_OK)

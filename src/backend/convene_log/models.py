@@ -23,8 +23,8 @@ class ConvenesLog(models.Model):
     time = models.DateTimeField(verbose_name="Time")
 
     class Meta:
-        verbose_name = "Gacha Log"
-        verbose_name_plural = "Gacha Logs"
+        verbose_name = "Convene Log"
+        verbose_name_plural = "Convene Logs"
         ordering = ['-time']
 
     def __str__(self):

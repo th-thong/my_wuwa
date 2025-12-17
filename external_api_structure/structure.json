@@ -1,0 +1,24 @@
+{
+  "convene_log": {
+    "url":"https://gmserver-api.aki-game2.net/gacha/record/query",
+    "convenes_log_url": "https://aki-gm-resources-oversea.aki-game.net/aki/gacha/index.html#/record?svr_id=10cd7254d57e58ae560b15d51e34b4c8&player_id=901551605&lang=en&gacha_id=100044&gacha_type=1&svr_area=global&record_id=4be2ad6f4d09d2c069df7b0f4681ec4e&resources_id=72039f04956b18477fa6e02f1ebdd206&platform=PC",
+    "payload": {
+      "cardPoolId": "72039f04956b18477fa6e02f1ebdd206",
+      "cardPoolType": 1,
+      "languageCode": "en",
+      "playerId": "901551605",
+      "recordId": "4be2ad6f4d09d2c069df7b0f4681ec4e",
+      "serverId": "10cd7254d57e58ae560b15d51e34b4c8"
+    },
+    "response":"./response/convenes_log_response.json"
+  },
+  "account_info": {
+    "url": "https://pc-launcher-sdk-api.kurogame.net/game/queryRole?_t=1765956224",
+    "payload": {
+      "oauthCode": "game_account.oauthCode",
+      "playerId": "game_acocunt.uid",
+      "region": "game_account.server"
+    },
+    "response": "./response/account_info_response.json"
+  }
+}

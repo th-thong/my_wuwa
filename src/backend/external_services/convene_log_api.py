@@ -4,9 +4,7 @@ from requests.exceptions import JSONDecodeError
 
 def get_convene_log(api_url:str,url:str, card_pool_type:int):
     params = get_params(url)
-    
-    
-    
+
     payload={
         "cardPoolId": params.get('resources_id',''),
         "cardPoolType": card_pool_type,

@@ -23,14 +23,14 @@ class ConveneLogView(APIView):
             return Response({"error":"Convenes url is missing"}, status=status.HTTP_400_BAD_REQUEST)
 
 
-        for i in range(1,2):
+        for i in range(1,10):
 
             params=get_params(convenes_log_url)
 
             convenes_log = get_convene_log(
                 api_url="https://gmserver-api.aki-game2.net/gacha/record/query",
                 url=convenes_log_url,
-                card_pool_type=1
+                card_pool_type=i
             )
 
 
